@@ -63,7 +63,7 @@ example:git branch -d dev
 #使用非fast-forward模式进行合并
 git merge --no-ff -m "merge with no-ff" dev
 
-#
+#添加tag
 git tag
 
 
