@@ -57,5 +57,6 @@ example:git merge dev
 git branch -d <name>
 example:git branch -d dev
 
+我在Dev分支上做了修改
 
 
